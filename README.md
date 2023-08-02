@@ -1,4 +1,4 @@
-Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://tenor.com/view/skull-skullgif-gif-24419301))My name is Nattapong Puttipatkosit
+Hi ![](https://tenor.com/view/skull-skullgif-gif-24419301)My name is Nattapong Puttipatkosit
 ===============================================================================================================================================
 
 Information Technology student - KMITL
