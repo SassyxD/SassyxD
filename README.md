@@ -1,4 +1,4 @@
-Hi <div class="tenor-gif-embed" data-postid="24419301" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/skull-skullgif-gif-24419301">Skull Skullgif Sticker</a>from <a href="https://tenor.com/search/skull-stickers">Skull Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>My name is Nattapong Puttipatkosit
+Sawatdee, I'm SassyxD
 ===============================================================================================================================================
 
 Information Technology student - KMITL
