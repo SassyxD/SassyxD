@@ -5,8 +5,8 @@ Information Technology student - KMITL
 --------------------------------------
 
 *   🌍  I'm based in Bangsean, Chonburi
-*   ✉️  You can contact me at [nputtipat.sho05@gmail.com](mailto:nputtipat.sho05@gmail.com)
-*   🧠  I'm learning Webpage & Robotics Programming### Skills 
+*   ✉️  You can contact me at [xenonhash@gmail.com](mailto:xenonhash@gmail.com)
+*   🧠  I'm learning Webpage & Robotics Programming Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
