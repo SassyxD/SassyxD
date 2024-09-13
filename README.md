@@ -2,7 +2,7 @@
 ===============================================================================================================================================
 
 *   🌍  I'm based in Bangsean, Chonburi
-*   ✉️  You can contact me at [xenonhash@gmail.com](mailto:xenonhash@gmail.com)
+*   ✉️  You can contact me via [xenonhash@gmail.com](mailto:xenonhash@gmail.com)
 *   🏛️  School of Information Technology, KMITL
 
 
