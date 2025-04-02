@@ -1,2 +1,2 @@
-<strong>_\>Sawatdee, I'm SassyxD</strong>
+<strong>_\>Sawatdee kub, I'm SassyxD</strong>
 
